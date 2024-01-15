@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background: #151414;
+}
+.chat-box{
+    width: 600px;
+    height: 50vh;
+    background: #ffffff;
+    margin: auto;
+}
+.hide{
+    display: none;
+}
